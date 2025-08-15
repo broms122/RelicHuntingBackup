@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <RitualAttachableOutcomeEffectDef>
+    <defName>DiscoverRelicHunt</defName>
+    <label>start relic hunt</label>
+    <effectDesc>Start a relic hunt for a random relic from a specific ideology.</effectDesc>
+    <letterInfoText>Relic Hunt Available</letterInfoText>
+    <workerClass>RelicHunting.RitualAttachableOutcomeEffectWorker_DiscoverRelics</workerClass>
+  </RitualAttachableOutcomeEffectDef>
+  
+</Defs>

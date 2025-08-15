@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Relic Hunting</name>
+	<author>Broms</author>
+	<packageId>Broms.RelicHunting</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Ludeon.RimWorld.ideology</packageId>
+      <displayName>Ideology</displayName>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+	<description>Adds a Relic Hunting ritual reward for hunting down other Ideology's Relics. Idea/Design by Broms, and C# by Taranchuk.</description>
+</ModMetaData>
